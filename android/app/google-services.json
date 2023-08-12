@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351083190849",
+    "project_id": "noteshell-7d892",
+    "storage_bucket": "noteshell-7d892.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351083190849:android:025c8b2336416d89f944c0",
+        "android_client_info": {
+          "package_name": "com.example.noteshell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351083190849-rj6trc07iar7tv8q47uu2kv4b1fbojun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKfJBGlHcGeoGVJ1lSXKHsk8VBKkJ2juY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351083190849-rj6trc07iar7tv8q47uu2kv4b1fbojun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
